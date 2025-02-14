@@ -1,0 +1,4 @@
+<config>
+  <contact uri="sip:4444@10.10.20.12" name="Test Contact4" />
+  <contact uri="sip:5555@10.10.20.12" name="Test Contact5" />
+</config>
